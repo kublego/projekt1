@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Fuel Cost Calculator</string>
+
+    <string name="distance_km">Distance (km)</string>
+    <string name="consumption_l_100">Consumption (L/100 km)</string>
+    <string name="price_pln_l">Fuel price (PLN/L)</string>
+
+    <string name="btn_calculate">Calculate</string>
+    <string name="btn_clear">Clear</string>
+
+    <string name="results">Results</string>
+    <string name="result_liters">Fuel needed</string>
+    <string name="result_cost">Trip cost</string>
+
+    <string name="toast_invalid">Enter valid values (&gt; 0).</string>
+    <string name="toast_calculated">Calculated</string>
+    <string name="toast_cleared">Cleared</string>
+
+    <string name="hint_commas">Tip: you can use dot or comma (for example, 7.2).</string>
+</resources>

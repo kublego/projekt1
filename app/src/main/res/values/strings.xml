@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Kalkulator kosztu paliwa</string>
+
+    <string name="distance_km">Dystans (km)</string>
+    <string name="consumption_l_100">Spalanie (l/100 km)</string>
+    <string name="price_pln_l">Cena paliwa (PLN/l)</string>
+
+    <string name="btn_calculate">Oblicz</string>
+    <string name="btn_clear">Wyczyść</string>
+
+    <string name="results">Wyniki</string>
+    <string name="result_liters">Potrzebne paliwo</string>
+    <string name="result_cost">Koszt przejazdu</string>
+
+    <string name="toast_invalid">Podaj poprawne wartości (&gt; 0).</string>
+    <string name="toast_calculated">Obliczono</string>
+    <string name="toast_cleared">Wyczyszczono dane</string>
+
+    <string name="hint_commas">Wskazówka: możesz używać kropki lub przecinka (np. 7,2).</string>
+</resources>
